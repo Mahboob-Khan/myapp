@@ -1,0 +1,6 @@
+cluster_name: cluster-1
+project: mahboob-projects-259917
+compute:  # choose "region" or "zone"
+   zone: us-central1
+namespace: myapp-test-env
+no_pr_approval_required: false
